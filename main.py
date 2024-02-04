@@ -1,1 +1,1 @@
-print("HEllO!")
+print("Пепик")
